@@ -211,8 +211,8 @@ header input:checked ~ label::before{
         height: 40vh;
          /* !!!: max-width: 100vh; */
          /* !!!: un comment on the display */
-         display: none;
-         visibility: hidden;
+         display: ;
+         visibility: ;
     }
 
     .home .content h3{
